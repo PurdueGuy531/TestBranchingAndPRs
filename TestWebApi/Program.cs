@@ -14,7 +14,8 @@ if (app.Environment.IsDevelopment())
     app.MapOpenApi();
 }
 
-//Adde comments
+//Added comments.
+//More changes.
 app.UseHttpsRedirection();
 
 app.UseAuthorization();
