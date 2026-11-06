@@ -15,6 +15,8 @@ if (app.Environment.IsDevelopment())
 }
 
 //more changes go here!
+//Added comments.
+//More changes.
 app.UseHttpsRedirection();
 
 app.UseAuthorization();
